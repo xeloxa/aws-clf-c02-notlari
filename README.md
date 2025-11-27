@@ -1,20 +1,22 @@
+<p>
+  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge">
+  <img src="https://img.shields.io/badge/Language-Turkish-red?style=for-the-badge" alt="Turkish Language">
+  <img src="https://img.shields.io/badge/Blog-HackPaper-blue?style=for-the-badge" alt="HackPaper">
+</p>
 <div align="center">
 
   <img src="https://hackpaper-image-server.netlify.app/images/blogs/aws-ve-bulut-bili%C5%9Fim-temelleri/10.jpg" alt="AWS Logo" width="100" />
 
   # AWS Certified Cloud Practitioner (CLF-C02) - Türkçe Notlar ☁️
   
-  Bu repository, **AWS Certified Cloud Practitioner** sınavına hazırlık sürecinde aldığım notları ve sınav ipuçlarını içeren bir yönlendirme kaynağıdır. 
+  Bu repository, **AWS Certified Cloud Practitioner** sınavı için aldığım notları ve sınav ipuçlarını içeren bir yönlendirme kaynağıdır. Notlar "AWS SkillBuilder - AWS Cloud Practitioner Essentials" kursundan alınmıştır ve cheatsheet formatında derlenmiştir. Sınavda karşına çıkabilecek temel kavramları ve hizmetleri hızlıca gözden geçirmek için idealdir.
   
-  Tüm detaylı makaleler ve güncel içerikler **[hackpaper.netlify.app](https://hackpaper.netlify.app/)** kişisel blogumda yayınlanmıştır.
+  Tüm güncel içeriklere, cloud ve siber güvenlik ile ilgili yazılara **[hackpaper.netlify.app](https://hackpaper.netlify.app/)** adresi üzerinden ulaşabilirsin.
   
-  [Siteyi Ziyaret Et 🚀](https://hackpaper.netlify.app/)
 
 </div>
 
 ---
-
-## 📚 Ders Notları ve Blog Yazıları
 
 Aşağıdaki listeden ilgili konunun detaylı anlatımına ulaşabilirsiniz:
 
