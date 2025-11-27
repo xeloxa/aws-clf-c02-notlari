@@ -48,7 +48,7 @@ Aşağıdaki listeden ilgili konunun detaylı anlatımına ulaşabilirsiniz:
 Bu repository'de yer alan notlar, **AWS Certified Cloud Practitioner (CLF-C02)** sınavına hazırlık sürecimdeki kişisel çalışma notlarımı içermektedir.
 
 * **Resmiyet:** Bu notlar Amazon Web Services (AWS) ile resmi bir bağlantıya sahip değildir ve AWS tarafından doğrulanmamıştır.
-* **Doğruluk:** Bilgilerin doğruluğu ve güncelliği konusunda garanti verilmemektedir. AWS servisleri ve sınav içerikleri zamanla değişebilir. Resmi kaynak için her zaman [AWS Documentation](https://docs.aws.amazon.com/) referans alınmalıdır.
+* **Doğruluk:** Bilgilerin doğruluğu ve güncelliği konusunda garanti verilmemektedir. AWS servisleri ve sınav içerikleri zamanla değişebilir.
 * **Sorumluluk:** Bu notların kullanımından doğabilecek herhangi bir sınav başarısızlığı veya hatadan yazar sorumlu tutulamaz.
 
 *AWS, Amazon Web Services ve ilgili logolar Amazon.com, Inc. veya iştiraklerinin ticari markalarıdır.*
