@@ -5,7 +5,7 @@
 </p>
 <div align="center">
 
-  <img src="https://hackpaper-image-server.netlify.app/images/blogs/aws-ve-bulut-bili%C5%9Fim-temelleri/10.jpg" alt="AWS Logo" width="100" />
+  <img src="banner.jpg" alt="AWS Logo" width="100" />
 
   # AWS Certified Cloud Practitioner (CLF-C02) - Türkçe Notlar ☁️
   
